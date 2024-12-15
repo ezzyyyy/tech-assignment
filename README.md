@@ -2,6 +2,8 @@
 
 This is a full-stack application consisting of a frontend built with Next.js React and a backend built with Express.js. The application allows users to upload CSV files, processes the data, and displays it in a paginated format (**server-side pagination** was used for this project).
 
+Watch demo here: [DEMO](https://drive.google.com/file/d/1XNRInOjQwP0ZqdkpLh_0X6yLvT8RiY6o/view?usp=sharing)
+
 In this project, data is saved in JSON as mock database. If had more time, would complete app with MongoDB for nosql storage.
 
 Also wasnt able to complete jest tests, as just learnt unit testing for this project, but ran out of time 😅
