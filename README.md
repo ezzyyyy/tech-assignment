@@ -4,6 +4,8 @@ This is a full-stack application consisting of a frontend built with Next.js Rea
 
 Watch demo here: [DEMO](https://drive.google.com/file/d/1XNRInOjQwP0ZqdkpLh_0X6yLvT8RiY6o/view?usp=sharing)
 
+Screenshots added at the very bottom 👇👇
+
 In this project, data is saved in JSON as mock database. If had more time, would complete app with MongoDB for nosql storage.
 
 Also wasnt able to complete jest tests, as just learnt unit testing for this project, but ran out of time 😅
@@ -70,3 +72,13 @@ npm test
 ```
 
 Done!
+
+Watch demo here: [DEMO](https://drive.google.com/file/d/1XNRInOjQwP0ZqdkpLh_0X6yLvT8RiY6o/view?usp=sharing)
+
+<img width="1295" alt="uploading" src="https://github.com/user-attachments/assets/c1693bac-b9f6-4727-98db-7263de1be4ed" />
+
+<img width="1295" alt="upload" src="https://github.com/user-attachments/assets/3650617a-990e-4f16-b74e-3ccc2166de78" />
+
+<img width="1295" alt="list" src="https://github.com/user-attachments/assets/16108247-ff5c-4be9-9e56-4a6c18161091" />
+
+
